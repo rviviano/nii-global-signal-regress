@@ -19,8 +19,6 @@
 
 from __future__ import print_function
 
-# Doing this so undergrads don't freak out about any deprecation 
-# warnings or other warnings that our python environment may raise
 import warnings
 warnings.filterwarnings("ignore")
 
